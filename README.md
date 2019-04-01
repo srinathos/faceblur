@@ -1,7 +1,7 @@
 # FaceBlur 
 
 A simple program that searches for faces in a video and blurs them out. 
-Currently using [dlib's] face detection API that uses a CNN backend.
+Currently using [dlib's](http://dlib.net/) face detection API that uses a CNN backend.
 
 Currently working:
 * Face detection
